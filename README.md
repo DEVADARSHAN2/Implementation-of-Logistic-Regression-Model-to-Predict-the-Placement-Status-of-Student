@@ -77,17 +77,40 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 ### Placement_data
+![Screenshot 2024-03-15 210732](https://github.com/DEVADARSHAN2/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119432150/24a76033-f13f-4447-972d-8214f814ab44)
+
 ### Salary_data
+![Screenshot 2024-03-15 210829](https://github.com/DEVADARSHAN2/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119432150/283adff0-b4dd-4e37-9e9b-1e52fef9174e)
+
 ### ISNULL()
+![image](https://github.com/DEVADARSHAN2/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119432150/39949634-5b22-432c-8637-3a04527145d0)
+
 ### DUPLICATED()
+![Screenshot 2024-03-15 210927](https://github.com/DEVADARSHAN2/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119432150/be4a4686-74a4-4868-b5e3-e9d26b99edbc)
+
 ### Print Data
+![Screenshot 2024-03-15 211440](https://github.com/DEVADARSHAN2/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119432150/5f2d84c4-b065-4cc4-85e8-8fd388af4767)
+
 ### iloc[:,:-1]
+![Screenshot 2024-03-15 211207](https://github.com/DEVADARSHAN2/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119432150/97b2ca25-5ee4-40af-8751-ef19b496a6a8)
+
 ### Data_Status
+![Screenshot 2024-03-15 211231](https://github.com/DEVADARSHAN2/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119432150/d5e101c3-0631-4180-aeea-8d8dcc2c0c3d)
+
 ### Y_Prediction array:
+![Screenshot 2024-03-15 211300](https://github.com/DEVADARSHAN2/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119432150/3bc1e362-4b02-418c-baaf-e8816550eca5)
+
 ### Accuray value:
+![Screenshot 2024-03-15 211326](https://github.com/DEVADARSHAN2/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119432150/fc0ecbe7-41eb-40eb-bc0e-8def63527700)
+
 ### Confusion Array:
+![Screenshot 2024-03-15 211519](https://github.com/DEVADARSHAN2/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119432150/f381506f-d736-4d2f-8755-1a139dde3ec6)
+
 ### Classification report:
+![Screenshot 2024-03-15 211545](https://github.com/DEVADARSHAN2/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119432150/83e9c53e-2349-485e-b0f9-c814786e6931)
+
 ### Prediction of LR:
+![Screenshot 2024-03-15 211613](https://github.com/DEVADARSHAN2/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119432150/b3834679-b1c1-4d5d-b10f-b97d7a8f3b64)
 
 
 ## Result:
